@@ -1,0 +1,3 @@
+[submodule "lib/mathlib"]
+	path = lib/mathlib
+	url = https://github.com/Cibi-R/MathLib.git
